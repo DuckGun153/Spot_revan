@@ -26,7 +26,7 @@ Disable Pairip license check
 - Disable Play Integrity Protect (Pairip) client-side license check.
 
 Fix Facebook login
-Fix logging in with Facebook when the app is patched by always opening the login in a web browser window.
+- Fix logging in with Facebook when the app is patched by always opening the login in a web browser window.
 
 Fix third party launchers widgets
-Fixes Spotify widgets not working in third party launchers, like Nova Launcher.
+- Fixes Spotify widgets not working in third party launchers, like Nova Launcher.
