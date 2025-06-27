@@ -30,3 +30,6 @@ Fix Facebook login
 
 Fix third party launchers widgets
 - Fixes Spotify widgets not working in third party launchers, like Nova Launcher.
+
+Change lyrics provider
+- Changes the lyrics provider to a custom one.
